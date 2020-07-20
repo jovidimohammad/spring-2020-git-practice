@@ -4,4 +4,3 @@ green
 blue
 pink
 orange
-hello
